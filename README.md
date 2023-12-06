@@ -1,8 +1,8 @@
 # Latihan OOP di bahasa python                
 
-* Nama          : Mochammad Irfandhy              
-* NIM           : 312110126              
-* Kelas         : TI.21.C5              
+* Nama          : Nurul Aisyah             
+* NIM           : 312310476             
+* Kelas         : TI.23.A.5             
 * Mata Kuliah   : Bahasa Pemrograman                 
 ----------------------------------                     
 Dalam latihan dasar OOP [`python`](https://www.python.org/) ini, saya menggunakan [`Visual Studio Code`](https://code.visualstudio.com/) sebagai teks editornya.               
